@@ -16,6 +16,7 @@ public class Progra2Algebra {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new GUI.Menu().setVisible(true);
     }
     
 }
